@@ -1,0 +1,38 @@
+#login-box{
+	width: 30%;
+	height: auto;
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 15%;
+	background: #00000090;
+	padding:20px 50px;
+}
+
+#login-box .form .item input{
+	width: 200px;
+	border: 0;
+	border-bottom: 3px solid #fff;
+	padding: 5px 10px;
+	background: #ffffff00;
+	color: #fff;
+	font-size: 20px;
+	margin-top: 15px;
+}
+
+#login-box .form .item3 button{
+	margin-top: 20px;
+	width: 180px;
+	height: 30px;
+	font-size: 20px;
+	font-weight: 700;
+	background-image: linear-gradient(-225deg, #bf3a3f 0%, #7C64D5 48%, #4CC3FF 100%);
+	border: 0;
+	border-radius: 15px;
+}
+
+body{
+	background: url("file:///D:/360downloads/wpcache/srvsetwp/1002069.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
