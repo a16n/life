@@ -1,5 +1,7 @@
 body{
 	background: url("../photo/1002069.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
 	text-align: center;
 }
 
